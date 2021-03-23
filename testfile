@@ -3,4 +3,5 @@ dr-xr-x--- 4 root root 137 Mar 23 08:49 ..
 drwxr-xr-x 7 root root 119 Mar 23 08:49 .git
 drwxr-xr-x 3 root root  18 Mar 23 08:49 .
 [root@ip-172-31-45-184 testfile]# vi testfile
-hi~
+hi
+hiii~
